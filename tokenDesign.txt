@@ -1,0 +1,9 @@
+Token Design - Ocean Token
+
+1) initial Supply (send to owner) 70, 000, 000 (70 million) => aatla token owner ne send kare saruaat ma [done]
+ 
+2) max Supply (capped) - 100, 000, 000 (1 hundred million) => max aatla token bani sake [done]
+
+3) make token burnable [done]
+
+4) create block reward to distribute new Supply to miners = [done]
