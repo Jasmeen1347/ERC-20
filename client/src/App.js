@@ -181,6 +181,8 @@ function App() {
           <div className="container has-text-centered main-content">
             <h1 className="title is-1">Faucet</h1>
             <p>Fast and reliable. 50 COT/day.</p>
+            <p>Please connect to Goerli Testnet to load data</p>
+            <p>Smart Contract Address: 0x0eBD5C3F6B73735509e8a93aAc3E500FDf008937</p>
             <div className="mt-5">
               {withDrawErr && (
                 <div className="withdraw-error">{withDrawErr}</div>
